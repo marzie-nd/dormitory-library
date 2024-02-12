@@ -23,12 +23,12 @@ This project is a University Library System for managing books in dormitories at
 
 ## Usage
 
-1.**Run the application:**
+1. **Run the application:**
 
 ```bash
    npm start
 
-2.**Explore the features:**
+2. **Explore the features:**
 *View a list of books.
 *Search for books using the search box.
 *View detailed information about each book.
