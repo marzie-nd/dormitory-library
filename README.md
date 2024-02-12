@@ -28,14 +28,15 @@ This project is a University Library System for managing books in dormitories at
 ```bash
    npm start
 
-2.**Explore the features::**
+2.**Explore the features:**
 *View a list of books.
 *Search for books using the search box.
 *View detailed information about each book.
 *Add new books to the library.
 *Delete existing books from the library.
 
-## Folder Structure
+
+## Usage
 
 *src/: Contains the source code of the React application.
   *components/: React components for different sections of the application.
