@@ -43,11 +43,15 @@ This project is a University Library System for managing books in dormitories at
 
 ## Usage
 
-*src/: Contains the source code of the React application.
-  *components/: React components for different sections of the application.
-  *data/: Functions for fetching and manipulating data.
-*public/: Static assets and the main HTML file.
-*README.md: Documentation for the project.
+•   src/: Contains the source code of the React application.
+
+  •   components/: React components for different sections of the application.
+  
+   •   data/: Functions for fetching and manipulating data.
+  
+•   public/: Static assets and the main HTML file.
+
+•   README.md: Documentation for the project.
 
 ## Contributing
 
