@@ -1,0 +1,33 @@
+.books {
+  display: flex;
+}
+
+.book-item {
+  padding: 1rem;
+  width: 20rem;
+  border-radius: 10px;
+}
+
+.search-box {
+  width: 100%;
+}
+.search-box,
+.add-btn {
+  font-family: "Vazir", "tahoma" !important;
+  border: none;
+  outline: none;
+  height: 3.5rem;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.add-btn {
+  background-color: #e8c4b0;
+  width: 20rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 15px;
+}
+.add-btn:hover {
+  background-color: #e69681;
+}

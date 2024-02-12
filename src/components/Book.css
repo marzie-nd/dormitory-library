@@ -1,0 +1,35 @@
+.card {
+  background-color: #bcc2aa;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin: 5rem 20rem;
+  width: 50rem;
+  height: calc(100%-7rem);
+}
+
+.card-header {
+  height: 5rem;
+  padding: 1rem;
+}
+.card-body {
+  height: 15rem;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+}
+
+.card-footer {
+  height: 5rem;
+}
+.delete-btn {
+  border: none;
+  outline: none;
+  padding: 1rem 2rem;
+  border-radius: 15px;
+  font-size: 1rem;
+  background-color: #e69681;
+  font-family: "Vazir";
+  cursor: pointer;
+}
+.delete-btn:hover {
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;}
