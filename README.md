@@ -25,8 +25,8 @@ This project is a University Library System for managing books in dormitories at
 
 1. **Run the application:**
 
-```bash
-npm start
+   ```bash
+   npm install
 
 2. **Explore the features:**
 *View a list of books.
